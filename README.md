@@ -1,0 +1,1 @@
+# mvoter-result-component
